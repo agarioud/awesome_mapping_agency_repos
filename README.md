@@ -29,6 +29,9 @@ A collection of GEO/ML GitHub repositories from different mapping agencies.
   - myria
   - maestro
   - lastig
+ 
+## Norway
+https://github.com/ivaroveland
 
 ## Poland
 
