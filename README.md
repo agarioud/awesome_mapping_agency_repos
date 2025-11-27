@@ -9,11 +9,25 @@ This is about training and inference of lidar pointcloud ML production
 https://github.com/SDFIdk/laz-superpoint_transformer
 https://github.com/SDFIdk/ML_sdfi_fastai2
 
+spain
+ICGC
+https://marionacaros.github.io/
+power wires LiDAR dataset
+https://github.com/marionacaros/terlidar
+
 French
 https://github.com/IGNF/FLAIR-HUB
 myria
 maestro
 lastig
+
+Poland
+qgis plugin
+https://github.com/MarcinLebiecki/WalidatorPlikowGML
+
+
+
+
 
 
 
