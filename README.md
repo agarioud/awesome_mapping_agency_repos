@@ -6,9 +6,10 @@ A collection of GEO/ML GitHub repositories from different mapping agencies.
 
 **Danish KDS**
 
-- [ML_geo_production](https://github.com/SDFIdk/ML_geo_production): Running semantic segmentation models in production.
+- [ML_geo_production](https://github.com/SDFIdk/ML_geo_production): Using ensambles of semantic segmentation models in production.
 - [laz-superpoint_transformer](https://github.com/SDFIdk/laz-superpoint_transformer): Training and inference for LiDAR point cloud ML in production.
-- [ML_sdfi_fastai2](https://github.com/SDFIdk/ML_sdfi_fastai2): Training and inference for LiDAR point clouds with FastAI.
+- [ML_sdfi_fastai2](https://github.com/SDFIdk/ML_sdfi_fastai2): Training and validation of semantic segmetnation models with fastai2
+
 
 ## Spain
 
